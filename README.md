@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# different profile ui design 
+
+https://github.com/ayseleynavuz/profile_ui/assets/58444323/6a5c5999-ad57-476a-b83f-369c2f63581e
+
